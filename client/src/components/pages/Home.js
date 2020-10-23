@@ -32,7 +32,7 @@ const Home = () => {
       <div className='container'>
         <div className='row'>
           <div className='col s12'>
-            <h1>Welcome to Goal Tracker!</h1>
+            <h1>Welcome to Goal Seeker</h1>
             <h4>A tool for motivation and goal acquisition</h4>
             <h5>Directions:</h5>
           </div>
