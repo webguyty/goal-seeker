@@ -12,8 +12,10 @@
   &__item {
     position: relative;
     background-color: white;
-    padding: 10px;
-    margin-bottom: 5px;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     cursor: pointer;
 
     &__hoverText {
